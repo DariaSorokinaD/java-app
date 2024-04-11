@@ -9,6 +9,7 @@ public class Ejercicio2 {
         do { 
             numero++;
             System.out.println(numero);
+             System.out.println(numero);
             
             
         }while(numero<100);
