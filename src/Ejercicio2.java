@@ -9,7 +9,7 @@ public class Ejercicio2 {
         do { 
             numero++;
             System.out.println(numero);
-            System.out.println("adios");
+            
             
         }while(numero<100);
             
